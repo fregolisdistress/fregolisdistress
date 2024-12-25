@@ -41,7 +41,7 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 <p align="center"><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Fregoli's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=fregolisdistress&theme=calm&background=00000000&hide_border=true"/></a></p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fregoli's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=fregolisdistress&show_icons=true&include_all_commits=true&count_private=true&theme=calm&hide_border=true&bg_color=00000000" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fregoli's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=fregolisdistress&show_icons=true&include_all_commits=true&count_private=true&theme=calm&hide_border=true&bg_color=00000000&custom_title=Fregoli's%20GitHub%20Stats" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fregoli's Obsessions" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fregolisdistress&langs_count=8&layout=compact&theme=calm&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Roff&custom_title=Fregoli's%20Obsessions" height="192px"/></a>
 </p>
 
